@@ -27,9 +27,9 @@ Para acessar a página bastar clicar no seguinte link: ---
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [JSX](https://pt-br.reactjs.org/docs/jsx-in-depth.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Vite](https://vitejs.dev/guide/#community-templates)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">
